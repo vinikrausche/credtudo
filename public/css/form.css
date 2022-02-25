@@ -1,0 +1,4 @@
+/*#container{border: 1px solid #ccc;}*/
+#container h1{text-align: center;}
+#form{width: 50%; border: 1px solid #ccc;margin: auto;padding: 10px;box-shadow: 1px 1px 4px #ccc;}
+#warning{background-color: #ff0000 ;padding: 5px; color: #fff; position: relative; left: 30%;}
